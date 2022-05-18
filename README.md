@@ -10,6 +10,13 @@
 
 如果你有好的内容想贡献，也可以直接联系我的QQ: 1809523092
 
+#### 本项目地址
+
+- [Github主站](https://github.com/RainGather/awesome_k12_cs)
+
+- [Gitee国内加速](https://gitee.com/assertset/awesome_k12_cs)
+- [Jihulab国内加速](https://jihulab.com/raingather/awesome_k12_cs)
+
 ## 总索引
 
 ### 软件
