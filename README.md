@@ -15,7 +15,6 @@
 - [Github主站](https://github.com/RainGather/awesome_k12_cs)
 
 - [Gitee国内加速](https://gitee.com/assertset/awesome_k12_cs)
-- [Jihulab国内加速](https://jihulab.com/raingather/awesome_k12_cs)
 
 ## 总索引
 
